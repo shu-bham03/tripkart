@@ -1,0 +1,220 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+} */
+
+
+/* page1 */
+/* body {
+  margin: 0;
+  line-height: normal;
+} */
+
+/* :root { */
+  /* fonts */
+  /* --font-poppins: Poppins;
+  --font-yu-gothic-ui: "Yu Gothic UI";
+  --font-rubik: Rubik;
+  --font-roboto: Roboto;
+  --font-inter: Inter; */
+
+  /* font sizes */
+  /* --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-mid: 17px;
+  --font-size-2xl-7: 21.7px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-3xl-8: 22.8px;
+  --font-size-xl: 20px;
+  --font-size-smi: 13px; */
+
+  /* Colors */
+  /* --color-white: #fff;
+  --color-aliceblue-100: #ebf0f7;
+  --color-steelblue-100: #005b9a;
+  --color-coral: #fa6e36;
+  --color-slategray-100: #77838f;
+  --color-slategray-200: #67747c;
+  --color-darkslateblue: #1d508d;
+  --color-darkslategray-100: #3b444f;
+  --color-darkslategray-200: #38404a;
+  --color-darkslategray-300: #333;
+  --color-gray-100: #808080;
+  --color-gray-200: #292b2c;
+  --color-gray-300: #0c0c0c;
+  --color-gray-400: rgba(0, 0, 0, 0.54);
+  --color-mediumslateblue: #316bff;
+  --color-lightgray: #ccc; */
+
+  /* Gaps */
+  /* --gap-51xl: 70px;
+  --gap-80xl: 99px;
+  --gap-61xl: 80px;
+  --gap-smi: 13px; */
+
+  /* Border radiuses */
+  /* --br-10xs: 3px;
+  --br-80xl: 99px;
+  --br-xl: 20px;
+  --br-9xl: 28px;
+} */
+
+/* page2 */
+/* body {
+  margin: 0;
+  line-height: normal;
+} */
+
+/* :root { */
+  /* fonts */
+  /* --label-light: Rubik;
+  --font-poppins: Poppins;
+  --font-yu-gothic-ui: "Yu Gothic UI";
+  --font-verdana: Verdana;
+  --font-roboto: Roboto;
+  --font-inter: Inter; */
+
+  /* font sizes */
+  /* --label-light-size: 14px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-xl-8: 20.8px;
+  --font-size-4xl-8: 23.8px;
+  --font-size-3xl-9: 22.9px;
+  --font-size-lgi-5: 19.5px; */
+
+  /* Colors */
+  /* --color-white: #fff;
+  --color-darkslategray-100: #4a4a4a;
+  --color-darkslategray-200: #464a4c;
+  --color-darkslategray-300: #3b444f;
+  --color-aliceblue-100: #f2f9fc;
+  --color-aliceblue-200: #ebf0f7;
+  --black: #000;
+  --color-steelblue-100: #005b9a;
+  --color-coral: #fa6e36;
+  --color-slategray-100: #77838f;
+  --color-slategray-200: #67747c;
+  --color-darkslateblue: #1d508d;
+  --color-gray-100: #818588;
+  --color-gray-200: #767676;
+  --color-gray-300: #292b2c;
+  --color-gray-400: #0e101a;
+  --color-gray-500: rgba(0, 0, 0, 0.15);
+  --color-gray-600: rgba(0, 0, 0, 0.13);
+  --color-whitesmoke-100: #efefef;
+  --color-whitesmoke-200: #eee;
+  --color-dimgray: #636c72; */
+
+  /* Gaps */
+  /* --gap-11xs: 2px;
+  --gap-lg: 18px;
+  --gap-5xs: 8px;
+  --gap-61xl: 80px;
+  --gap-19xl: 38px;
+  --gap-xs: 12px;
+  --gap-31xl: 50px;
+  --gap-lgi-5: 19.5px;
+  --gap-8xl-5: 27.5px;
+  --gap-222xl-4: 241.4px;
+  --gap-sm-7: 13.7px;
+  --gap-16xl: 35px;
+  --gap-8xs: 5px;
+  --gap-xl: 20px; */
+
+  /* Paddings */
+  /* --padding-5xs: 8px;
+  --padding-4xl: 23px;
+  --padding-5xl: 24px;
+  --padding-8xl: 27px;
+  --padding-xs-4: 11.4px;
+  --padding-9xs-4: 3.4px;
+  --padding-3xs-2: 9.2px;
+  --padding-mini-9: 14.9px;
+  --padding-3xs: 10px;
+  --padding-mid: 17px;
+
+  Border radiuses */
+  /* --br-10xs: 3px;
+  --br-80xl: 99px;
+  --br-9xs-7: 3.7px;
+  --br-10xs-9: 2.9px;
+  --br-10xs-3: 2.3px;
+  --br-6xs: 7px; */
+/* } */
+
+/* page3 */
+/* body {
+  margin: 0;
+  line-height: normal;
+} */
+
+/* :root { */
+  /* fonts */
+  /* --label-light: Rubik;
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+  --font-yu-gothic-ui: "Yu Gothic UI"; */
+
+  /* font sizes */
+  /* --label-light-size: 14px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-4xl: 23px;
+  --font-size-base: 16px; */
+
+  /* Colors */
+  /* --color-white: #fff;
+  --color-darkslategray: #3b444f;
+  --color-aliceblue-100: #f2f9fc;
+  --color-aliceblue-200: #ebf0f7;
+  --black: #000;
+  --color-coral: #fa6e36;
+  --color-gray-100: #fdfdfd;
+  --color-gray-200: #2b2b2b;
+  --color-gray-300: #292b2c;
+  --color-gray-400: rgba(0, 0, 0, 0.13);
+  --color-dimgray-100: #676767;
+  --color-dimgray-200: #575757;
+  --color-mediumslateblue: #9563ff;
+  --color-steelblue-100: #005b9a;
+  --color-slategray-100: #77838f;
+  --color-slategray-200: #67747c;
+  --color-darkslateblue: #1d508d;
+
+  /* Gaps */
+  /* --gap-11xs: 2px;
+  --gap-5xs: 8px; */
+
+  /* Border radiuses */
+  /* --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-10xs: 3px;
+  --br-80xl: 99px;
+} */ 

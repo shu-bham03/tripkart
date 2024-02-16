@@ -1,0 +1,29 @@
+/* input[type="checkbox"]:after{
+  position: absolute;
+  content: "\f111";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  border-radius: 0%;
+  font-size: 30px;
+  color: grey;
+}
+
+input[type="checkbox"]:checked:after{
+  font-weight: 900px;
+  content: "\f058";
+  background: blue;
+  color: orange;
+}
+
+input[type="checkbox"]{
+  -webkit-appearance: none;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 0px;
+  margin: 0px;
+
+} */
